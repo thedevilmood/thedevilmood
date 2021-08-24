@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Leo Grogg
 
-info@lernblog.ch
+leo.grogg@gmx.ch
 
-Beschreibung, wer ich bin...
+Ich bin Schüler an der Wirtschaftsmittelschule Bern.
