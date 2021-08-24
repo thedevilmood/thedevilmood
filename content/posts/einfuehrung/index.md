@@ -1,5 +1,5 @@
 +++
-title = "Erste Website für Blumenladen "
+title = "Einführung"
 date = "2021-08-24"
 draft = true
 pinned = false
