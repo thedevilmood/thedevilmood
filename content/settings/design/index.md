@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "https://clipartion.com/free-clipart-29859/"
+icon = "/media/space.png"
 logo = ""
 image = ""
 color = ""
