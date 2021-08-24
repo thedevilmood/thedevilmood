@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
+icon = "https://clipartion.com/free-clipart-29859/"
 logo = ""
 image = ""
 color = ""
 +++
-
