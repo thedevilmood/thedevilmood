@@ -1,14 +1,14 @@
 +++
 title = "Erste Website für Blumenladen "
 date = "2021-08-24"
-draft = false
+draft = true
 pinned = false
 tags = ["Anleitung", "Lernblog"]
 image = "unbenannt-1-.jpg"
 description = "In diesem Blog Eintrag geht es um meine Erste eigne Website. \n"
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-
+Das Erstellen 
 
 ![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.png)
 
