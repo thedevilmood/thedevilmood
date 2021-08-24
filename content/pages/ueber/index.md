@@ -1,10 +1,10 @@
 +++
 title = "Über mich"
 draft = false
-image = "unbenannt.png"
+image = ""
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](unbenannt.png)
 
 ## Leo Grogg
 
