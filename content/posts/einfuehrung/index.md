@@ -1,11 +1,11 @@
 +++
-title = "Einführung"
-date = "2019-05-28"
+title = "Erste Website für Blumenladen "
+date = "2021-08-24"
 draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
-image = "/img/default-image.png"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+image = "unbenannt-1-.jpg"
+description = "In diesem Blog Eintrag geht es um meine Erste eigne Website. \n"
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
