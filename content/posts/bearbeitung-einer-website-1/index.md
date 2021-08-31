@@ -1,5 +1,5 @@
 +++
-title = "Bearbeitung einer Website (1)"
+title = "Bearbeitung einer Website"
 date = "2021-08-31"
 draft = false
 pinned = false
