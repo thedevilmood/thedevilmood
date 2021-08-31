@@ -4,6 +4,7 @@ date = "2021-08-31"
 draft = false
 pinned = false
 tags = ["Nagelstudio"]
+image = "nagelstudio-1-.png"
 description = "Zum ersten Mal bearbeiten wir eine Website eines Nagelstudios. "
 footnotes = "www.nagelstudio-naguwerkstatt.ch"
 +++
