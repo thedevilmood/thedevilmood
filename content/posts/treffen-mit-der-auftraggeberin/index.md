@@ -9,4 +9,6 @@ description = "Ich treffe heute unsere Arbeitgeberin und werde das weitere vorge
 +++
 Für das treffen habe ich auf dem Word ein Protokoll erstellt, welches ich während dem Meeting führen werden. Im Meeting werde ich mich auf das von uns erstellte Mindmap (siehe Bild) beziehen. Wir werden dann die besprochenen Punkte versuchen umzusetzen und nehmen danach wieder Rücksprache mit unserer Auftraggeberin auf. 
 
+##### *Nächste Woche geht es dann weiter...*
+
 ![](microsoftteams-image-1-.png)
