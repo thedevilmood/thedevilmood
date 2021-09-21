@@ -12,4 +12,4 @@ Heute haben Lili und ich angefangen die Website unserer Kundin anzupassen. Dank 
 
 Am heutigen Nachmittag haben wir bereits das Vegane Zeichen geändert und die Farbe etwas angepasst. 
 
-Nächste Woche geht es dann weiter...
+###### *Nächste Woche geht es dann weiter...*
