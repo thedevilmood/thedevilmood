@@ -1,5 +1,5 @@
 +++
-title = "Fertigstellung der Nagelstudio Website + Programmieren"
+title = "Bearbeiten der Nagelstudio Website + Programmieren"
 date = "2021-10-19"
 draft = false
 pinned = false
