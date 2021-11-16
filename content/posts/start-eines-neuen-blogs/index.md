@@ -4,6 +4,7 @@ date = "2021-11-16"
 draft = false
 pinned = false
 tags = ["reisenbookings"]
+image = "x-min.png"
 description = "Lili und ich starten heute mit unserem Neuen Blog übers reisen. "
 footnotes = "[Lilo Travel (lilo-travel.netlify.app)](https://lilo-travel.netlify.app/)"
 +++
