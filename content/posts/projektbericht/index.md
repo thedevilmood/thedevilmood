@@ -4,6 +4,7 @@ date = "2021-11-16"
 draft = false
 pinned = false
 tags = ["Nagelstudio"]
+image = "csm_25074_nagelstudio_79c5cd8882.jpg"
 description = "Das Projekt Nagelstudio"
 +++
 ###### *Mit welcher Idee haben wir uns beschäftigt?*
