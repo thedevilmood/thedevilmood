@@ -15,7 +15,7 @@ Eine gute Freundin von mir hat ein eigenes Nagelstudio und auch eine Website. Al
 
 Wir haben die Website meiner Kollegin um einiges verbessert und noch einige Bilder und Design Änderungen vorgenommen. Während unserer Arbeit waren wir in engem Kontakt mit unserer Auftraggeberin. 
 
-***Feedback***
+###### ***Feedback***
 
 Unsere Auftraggeberin war mit den Änderungen sehr zufrieden. Wir selber finden, dass die Website nun um einiges ansprechender gestaltet ist. Auch die von Ihr Angebotenen Dienstleistungen kann Sie nun durch unsere Änderungen auf der Website viel besser verkaufen. 
 
@@ -27,7 +27,7 @@ Wir haben die Website mit Google Sites bearbeitet was am Anfang nicht unbedingt 
 
 Ich bezeichne unsere Arbeit auf jeden fall als einen Erfolg. Wir haben am Anfang sehr viel geändert und uns nicht wirklich Zeit gelassen dabei. Das würde ich auf jeden fall beim nächsten mal anders machen. Der Themen Bereich Beauty hat mich sowieso interessiert, weshalb ich mich gut mit dem Thema identifizieren konnte. 
 
-###### ***Das weitere Vorgehen*** 
+###### ***Das weitere Vorgehen***
 
 Wir haben mit Linda noch ein Abschluss Gespräch geführt und das Projekt ist nun zu ende. 
 
